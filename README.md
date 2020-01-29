@@ -6,7 +6,7 @@ This is a ColorNote type web application which I call To-Do-List. In this app us
 3. Remove items from a list.
 
 
-##Packages used
+## Packages used
 I am using mongoDB DataBase for storing my data(i.e. each tasks), and 
 * Express.js - web application framework for Node.js
 * Mongoose - ODM library for MongoDB database and Node.js
